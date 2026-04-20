@@ -2,6 +2,9 @@
 
 This repository contains essential files and instructions for setting up the USRP B210 with custom firmware on Linux. Follow the steps below to install the required drivers and replace the default B210 image with the custom one from this repository.
 
+# Software and Information
+I did not design this software, nor the board. I cannot answer questions about the project as I am not an FPGA developer. This repository merely exists as a means for users to be able to easily download the binaries needed to get these clones working. If you or someone has an issue, feel free to fork this repository and make changes. Otherwise, please contact the seller or manufacture of the device as I will be of no help. These files are provided AS-IS. 
+
 ## Prerequisites
 
 - Ubuntu Linux or another Debian-based distribution
